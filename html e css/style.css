@@ -4,9 +4,14 @@ body {
 }
 
 #page {
-         
+    box-sizing: border-box;
+    max-width: 820px;
+    padding: 24px;
+    background-color: #F0E8C2;  
+    border-radius: 24px;   
+    margin: 48px auto;                       
 }
 
 img {
     border-radius: 16px;
-}
+}   
